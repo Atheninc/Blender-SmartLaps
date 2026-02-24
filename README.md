@@ -31,7 +31,7 @@
 
 ## 🛠️ Installation
 
-1. **Télécharger** le fichier `v2 smart_lapse_recorder (3.3+).zip` depuis la [page de releases](https://github.com/Atheninc/Blender-SmartLaps/releases) ou directement depuis ce dépôt.
+1. **Télécharger** le fichier `v2 smart_lapse_recorder (3.3+).zip` directement depuis ce dépôt (section **Code**, ou depuis la [page de releases](https://github.com/Atheninc/Blender-SmartLaps/releases) si disponible).
 
 2. **Ouvrir Blender** (3.3 ou supérieur).
 
